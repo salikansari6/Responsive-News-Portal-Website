@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.desktopsearch {
+  height: 40px;
+  width: 700px;
+}
+
+.mdsearch {
+  width: 300px;
+}
+
+.navbar a {
+  font-weight: bold;
+  color: purple;
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+ol li {
+  font-size: 14px;
+}
+
+.trending {
+  height: 200px;
+}
+
+.media h5 {
+  color: darkblue;
+  font-weight: bold;
+}
+
+.media img {
+  float: left;
+}
+
+.phonesearchwrapper {
+  width: 360px;
+  position: relative;
+}
+
+.phonesearchwrapper img,
+.desktopsearchwrapper img,
+.mdsearchwrapper img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.phonesearch {
+  height: 40px;
+  width: 360px;
+}
+
+.desktopsearchwrapper {
+  width: 700px;
+  position: relative;
+}
+
+.mdsearchwrapper {
+  position: relative;
+  width: 350px;
+}
+
+.mdsearch {
+  width: 350px;
+  height: 40px;
+}
