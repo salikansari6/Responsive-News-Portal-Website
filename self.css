@@ -9,6 +9,10 @@
   width: 700px;
 }
 
+.navbar {
+  background: #e8e0d2;
+}
+
 .mdsearch {
   width: 300px;
 }
@@ -71,4 +75,8 @@ ol li {
 .mdsearch {
   width: 350px;
   height: 40px;
+}
+
+.menu {
+  background: #c2ccce;
 }
