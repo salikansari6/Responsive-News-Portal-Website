@@ -10,7 +10,7 @@
 }
 
 .navbar {
-  background: #c5fad5;
+  background: purple;
 }
 
 .mdsearch {
@@ -78,11 +78,27 @@ ol li {
 }
 
 .menu {
-  background: #ffffd2;
+  background: white;
 }
 
 .signin {
-  background: #5f01d1;
-  color: white;
+  background: white;
+  color: purple;
   font-weight: bold;
+}
+
+.bell {
+  filter: invert(1);
+}
+
+.mail {
+  filter: invert(1);
+}
+
+.navbar a {
+  color: white;
+}
+
+.menu a {
+  color: purple;
 }
