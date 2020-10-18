@@ -10,7 +10,7 @@
 }
 
 .navbar {
-  background: #e8e0d2;
+  background: #c5fad5;
 }
 
 .mdsearch {
@@ -78,5 +78,11 @@ ol li {
 }
 
 .menu {
-  background: #c2ccce;
+  background: #ffffd2;
+}
+
+.signin {
+  background: #5f01d1;
+  color: white;
+  font-weight: bold;
 }
