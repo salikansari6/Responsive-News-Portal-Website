@@ -4,17 +4,12 @@
   box-sizing: border-box;
 }
 
-.desktopsearch {
+.searchbar {
   height: 40px;
-  width: 700px;
 }
 
 .navbar {
   background: purple;
-}
-
-.mdsearch {
-  width: 300px;
 }
 
 .navbar a {
@@ -43,38 +38,15 @@ ol li {
   float: left;
 }
 
-.phonesearchwrapper {
-  width: 360px;
-  position: relative;
-}
-
-.phonesearchwrapper img,
-.desktopsearchwrapper img,
-.mdsearchwrapper img {
+.searchwrapper img {
   position: absolute;
   top: 0;
   bottom: 0;
   right: 0;
 }
 
-.phonesearch {
-  height: 40px;
-  width: 360px;
-}
-
-.desktopsearchwrapper {
-  width: 700px;
+.searchwrapper {
   position: relative;
-}
-
-.mdsearchwrapper {
-  position: relative;
-  width: 350px;
-}
-
-.mdsearch {
-  width: 350px;
-  height: 40px;
 }
 
 .menu {
